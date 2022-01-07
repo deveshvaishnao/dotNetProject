@@ -5,4 +5,5 @@ change :- added for login feature.
 change :- done by team mate for WI3.
 change :- added for login feature.
 change :- for the bug2.
+change :- for WI6 on local master to test normal push.
 
